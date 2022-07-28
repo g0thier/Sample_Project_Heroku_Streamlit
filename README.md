@@ -7,3 +7,4 @@
  * 3. In requirements.txt change import as your app.py 
  * 4. Run PushMe.py from VSC
 
+ * 5. Follow Terminal instructions.
